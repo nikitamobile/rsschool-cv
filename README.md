@@ -1,11 +1,10 @@
 <html lang="ru">
   <head>
     <meta charset="utf-8">
-    <title>Резюме Никиты Германовича</title>
-  </head>
+      </head>
   <body>
     <header> <h1> Резюме Никиты Германовича </h1>
-      <img src=”ava.jpg” alt="My test image">
+      <img src=”ava.jpg” alt=".\My test image">
     </header>
     <section> 
       <ul>
