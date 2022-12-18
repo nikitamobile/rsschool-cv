@@ -1,10 +1,11 @@
+![My ava](https://user-images.githubusercontent.com/67693098/208297516-d5329377-8373-4af0-be3f-eaffc8e87987.jpg)
+
 <html lang="ru">
   <head>
     <meta charset="utf-8">
       </head>
   <body>
     <header> <h1> Резюме Никиты Германовича </h1>
-      <img src=”https://github.com/nikitamobile/rsschool-cv/blob/rsschool-cv-html/ava.jpg" alt="My test image">
     </header>
     <section> 
       <ul>
