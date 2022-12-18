@@ -4,7 +4,7 @@
       </head>
   <body>
     <header> <h1> Резюме Никиты Германовича </h1>
-      <img src=”[https://github.com/nikitamobile/rsschool-cv/blob/rsschool-cv-html/ava.jpg](https://github.com/nikitamobile/rsschool-cv/blob/rsschool-cv-html/ava.jpg?raw=true)" alt="My test image">
+      <img src=”https://github.com/nikitamobile/rsschool-cv/blob/rsschool-cv-html/ava.jpg" alt="My test image">
     </header>
     <section> 
       <ul>
@@ -24,3 +24,4 @@
     </section>
   </body>
 </html>
+![ava](https://user-images.githubusercontent.com/67693098/208297003-b82790b8-40e6-49ab-a072-483076ee769a.jpg)
