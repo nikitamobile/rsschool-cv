@@ -4,7 +4,7 @@
       </head>
   <body>
     <header> <h1> Резюме Никиты Германовича </h1>
-      <img src=”\ava.jpg” alt="My test image">
+      <img src=”./ava.jpg” alt="My test image">
     </header>
     <section> 
       <ul>
