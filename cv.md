@@ -19,17 +19,17 @@
     <section>
       <h2> Education </h2>
       Tashkent University of Information Technology
-      <br> 2012 - 2016 </br>
+      <br> 2012 - 2016
     </section>
         <section>
       <h2> Experience </h2>
           <span> FV "JS Developers" </span>
-          <br> 2020 - until now </br>
+          <br> 2020 - until now
     </section>
     <section>
       <h2> Contacts </h2>
           tel: +99890 7770912
-      <br> email: azbuka@gmail.com </br>
+      <br> email: azbuka@gmail.com
           </section>
     </main>
     <footer>
