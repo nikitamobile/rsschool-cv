@@ -35,7 +35,7 @@
     </main>
     <footer>
     <section>
-       <br> <a href="https://github.com/nikitamobile/"> nikitamobile GitHub <a> </br>
+       <br> <a href="https://github.com/nikitamobile/"> nikitamobile GitHub <a>
          </section>
          <section>
          <img src="rs.png" alt="Logo" align="right">
