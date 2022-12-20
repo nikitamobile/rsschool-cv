@@ -1,11 +1,11 @@
-![My ava](https://user-images.githubusercontent.com/67693098/208297516-d5329377-8373-4af0-be3f-eaffc8e87987.jpg)
-
 <html lang="ru">
   <head>
+  <link rel="stylesheet" href="style.css">
     <meta charset="utf-8">
       </head>
   <body>
-    <header> <h1> Nikita Germanovich </h1>
+     <header> <h1> Nikita Germanovich </h1>
+    <img src="ava.jpg" alt="My Ava" width="150">
     </header>
     <main>
     <section> 
@@ -19,18 +19,29 @@
     <section>
       <h2> Education </h2>
       Tashkent University of Information Technology
-      <br> 2012 - 2016
+      <br> 2012 - 2016 </br>
     </section>
         <section>
       <h2> Experience </h2>
           <span> FV "JS Developers" </span>
-          <br> 2020 - until now
+          <br> 2020 - until now </br>
     </section>
+    <section>
+      <h2> Contacts </h2>
+          tel: +99890 7770912
+      <br> email: azbuka@gmail.com </br>
+          </section>
     </main>
     <footer>
-      <h1> Contact </h1>
-      tel: +99890 7770912
-      <br> email: azbuka@gmail.com
-    </footer>
+    <section>
+       <br> <a href="https://github.com/nikitamobile/"> nikitamobile GitHub <a> </br>
+         </section>
+         <section>
+         <img src="rs.png" alt="Logo" align="right">
+              </section>
+             </footer>
   </body>
 </html>
+
+
+
