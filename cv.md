@@ -38,7 +38,7 @@
        <br> <a href="https://github.com/nikitamobile/"> nikitamobile GitHub <a>
          </section>
          <section>
-         <img src="rs.png" alt="Logo" align="right|top">
+         <img src="rs.png" alt="Logo" align="right">
               </section>
              </footer>
   </body>
