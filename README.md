@@ -36,7 +36,7 @@
        <br> <a href="https://github.com/nikitamobile/"> nikitamobile GitHub <a> </br>
          </section>
          <section>
-         <img src="rs.png" alt="Italian Trulli" align="right">
+         <img src="rs.png" alt="Logo" align="right">
               </section>
              </footer>
   </body>
