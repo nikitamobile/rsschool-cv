@@ -35,12 +35,18 @@ div{
     
 }
 
-#div_width{
+.div_width{
     width: 300px;
     height:150px;
 }
 
-#div_header{
+#div_header_1{
+    font-size: 32;
+    background-color: black;
+    color: white;
+}
+
+#div_header_2{
     font-size: 32;
     background-color: black;
     color: white;
@@ -113,4 +119,5 @@ a {
   }
 
 
+  
   
