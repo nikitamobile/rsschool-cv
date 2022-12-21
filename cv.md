@@ -5,44 +5,82 @@
     <link rel="stylesheet" href="./style.css">
       </head>
   <body>
-     <header> <h1> Nikita Germanovich </h1>
-    <img src="ava.jpg" alt="My Ava" width="150">
+    
+    <header>
+
+        <div id="div_header">JS Frontend Developer. Stage 0</div>
+        <div id="div_header">Nikita Germanovich CV</div>
+       
+    
     </header>
-    <main>
-    <section> 
-      <ul>
-        <li style="color:red"> Age: 27 </li>
-        <li style="color:red"> Education Degree: Higher </li>
-        <li style="color:red"> Direction: IT </li>
-        <li style="color:red"> Country: Uzbekistan </li>
-      </ul>
+
+    <aside>
+        <nav>
+<ul>
+    <li><a href="#About me">About me</a></li>
+    <li><a href="#Education">Education</a></li>
+    <li><a href="#Experience">Experience</a></li>
+    <li><a href="#Contacts">Contacts</a></li>
+
+</ul>
+
+            </nav>
+
+    </aside>
+
+    <section>
+        <div><h1> ABOUT ME </h1>
+            <ol>
+                <li> Age: 27 </li>
+                <li> Education Degree: Higher </li>
+                <li> Direction: IT </li>
+                <li> Country: Uzbekistan </li>
+              </ol></div>
+
+        <div id="image"><img src="ava.jpg" alt="My Ava" width="200"></div>
+        
     </section>
     <section>
-      <h2> Education </h2>
-      Tashkent University of Information Technology
-      <br> 2012 - 2016
+
+        <div id="div_width"><H2>EDUCATION</H2>
+        <br>Tashkent University Of Information Technologies
+    <br> 2012-2016
+</div>
+        <div id="div_width"><H2>EXPERIENCE</H2>
+            <br>FV "JS Developers"
+    <br> 2020 - until now
+        </div>
+        <div id="div_width"><H2>CONTACTS</H2>
+            tel: +99890 7770912
+            <br> email: azbuka@gmail.com
+                        </div>
     </section>
-        <section>
-      <h2> Experience </h2>
-          <span> FV "JS Developers" </span>
-          <br> 2020 - until now
-    </section>
-    <section>
-      <h2> Contacts </h2>
-          tel: +99890 7770912
-      <br> email: azbuka@gmail.com
-          </section>
-    </main>
-    <footer>
-    <section>
-       <br> <a href="https://github.com/nikitamobile/"> nikitamobile GitHub <a>
-         </section>
-         <section>
-         <img src="rs.png" alt="Logo" align="right">
-              </section>
-             </footer>
-  </body>
-</html>
+
+    <section><H2>CODE SAMPLE</H2>
+    
+    <code><pre>
+        
+        &#60html lang="ru"&#62;
+        &#60head&#62;
+        &#60meta charset="utf-8"&#62;
+        &#60meta name="viewport" content="width=device-width, initial-scale=1.0"&#62;
+        &#60link rel="stylesheet" href="./style.css"&#62;
+        &#60/head&#62;
+                </pre>
+        </code>
+        </section>
+
+    <footer> 	
+        <div id="footer_link">
+            <a href="https://github.com/nikitamobile">My GitHub link</a> <br>
+            <a href="https://rs.school/js-stage0/"><span>Подготовительный курс «JavaScript/Front-end. Stage 0»</span></a>
+        </div>
+<div id="logo_img">
+    <img src="download.png" alt="Logo" height="80px">
+</div>
+
+    </footer>
 
 
-
+    </body>
+    </html>
